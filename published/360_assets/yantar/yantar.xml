@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/ART09142.png?t=1594223229" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="1129" highresHeight="842">
+    <image src="images/ART09142.png?t=1594223229">
+      <highres src="images/highres/ART09142.png?t=1594223229" />
+    </image>
+    <image src="images/ART09143.png?t=1594223229">
+      <highres src="images/highres/ART09143.png?t=1594223229" />
+    </image>
+    <image src="images/ART09144.png?t=1594223229">
+      <highres src="images/highres/ART09144.png?t=1594223229" />
+    </image>
+    <image src="images/ART09145.png?t=1594223229">
+      <highres src="images/highres/ART09145.png?t=1594223229" />
+    </image>
+    <image src="images/ART09146.png?t=1594223229">
+      <highres src="images/highres/ART09146.png?t=1594223229" />
+    </image>
+    <image src="images/ART09147.png?t=1594223229">
+      <highres src="images/highres/ART09147.png?t=1594223229" />
+    </image>
+    <image src="images/ART09148.png?t=1594223229">
+      <highres src="images/highres/ART09148.png?t=1594223229" />
+    </image>
+    <image src="images/ART09149.png?t=1594223229">
+      <highres src="images/highres/ART09149.png?t=1594223229" />
+    </image>
+    <image src="images/ART09150.png?t=1594223229">
+      <highres src="images/highres/ART09150.png?t=1594223229" />
+    </image>
+    <image src="images/ART09151.png?t=1594223229">
+      <highres src="images/highres/ART09151.png?t=1594223229" />
+    </image>
+    <image src="images/ART09152.png?t=1594223229">
+      <highres src="images/highres/ART09152.png?t=1594223229" />
+    </image>
+    <image src="images/ART09153.png?t=1594223229">
+      <highres src="images/highres/ART09153.png?t=1594223229" />
+    </image>
+    <image src="images/ART09154.png?t=1594223229">
+      <highres src="images/highres/ART09154.png?t=1594223229" />
+    </image>
+    <image src="images/ART09155.png?t=1594223229">
+      <highres src="images/highres/ART09155.png?t=1594223229" />
+    </image>
+    <image src="images/ART09156.png?t=1594223229">
+      <highres src="images/highres/ART09156.png?t=1594223229" />
+    </image>
+    <image src="images/ART09157.png?t=1594223229">
+      <highres src="images/highres/ART09157.png?t=1594223229" />
+    </image>
+    <image src="images/ART09158.png?t=1594223229">
+      <highres src="images/highres/ART09158.png?t=1594223229" />
+    </image>
+    <image src="images/ART09159.png?t=1594223229">
+      <highres src="images/highres/ART09159.png?t=1594223229" />
+    </image>
+    <image src="images/ART09160.png?t=1594223229">
+      <highres src="images/highres/ART09160.png?t=1594223229" />
+    </image>
+    <image src="images/ART09161.png?t=1594223229">
+      <highres src="images/highres/ART09161.png?t=1594223229" />
+    </image>
+    <image src="images/ART09162.png?t=1594223229">
+      <highres src="images/highres/ART09162.png?t=1594223229" />
+    </image>
+    <image src="images/ART09163.png?t=1594223229">
+      <highres src="images/highres/ART09163.png?t=1594223229" />
+    </image>
+    <image src="images/ART09164.png?t=1594223229">
+      <highres src="images/highres/ART09164.png?t=1594223229" />
+    </image>
+    <image src="images/ART09165.png?t=1594223229">
+      <highres src="images/highres/ART09165.png?t=1594223229" />
+    </image>
+    <image src="images/ART09166.png?t=1594223229">
+      <highres src="images/highres/ART09166.png?t=1594223229" />
+    </image>
+    <image src="images/ART09167.png?t=1594223229">
+      <highres src="images/highres/ART09167.png?t=1594223229" />
+    </image>
+    <image src="images/ART09168.png?t=1594223229">
+      <highres src="images/highres/ART09168.png?t=1594223229" />
+    </image>
+    <image src="images/ART09169.png?t=1594223229">
+      <highres src="images/highres/ART09169.png?t=1594223229" />
+    </image>
+    <image src="images/ART09170.png?t=1594223229">
+      <highres src="images/highres/ART09170.png?t=1594223229" />
+    </image>
+    <image src="images/ART09171.png?t=1594223229">
+      <highres src="images/highres/ART09171.png?t=1594223229" />
+    </image>
+    <image src="images/ART09172.png?t=1594223229">
+      <highres src="images/highres/ART09172.png?t=1594223229" />
+    </image>
+    <image src="images/ART09173.png?t=1594223229">
+      <highres src="images/highres/ART09173.png?t=1594223229" />
+    </image>
+    <image src="images/ART09174.png?t=1594223229">
+      <highres src="images/highres/ART09174.png?t=1594223229" />
+    </image>
+    <image src="images/ART09175.png?t=1594223229">
+      <highres src="images/highres/ART09175.png?t=1594223229" />
+    </image>
+    <image src="images/ART09176.png?t=1594223229">
+      <highres src="images/highres/ART09176.png?t=1594223229" />
+    </image>
+    <image src="images/ART09177.png?t=1594223229">
+      <highres src="images/highres/ART09177.png?t=1594223229" />
+    </image>
+    <image src="images/ART09178.png?t=1594223229">
+      <highres src="images/highres/ART09178.png?t=1594223229" />
+    </image>
+    <image src="images/ART09179.png?t=1594223229">
+      <highres src="images/highres/ART09179.png?t=1594223229" />
+    </image>
+    <image src="images/ART09180.png?t=1594223229">
+      <highres src="images/highres/ART09180.png?t=1594223229" />
+    </image>
+    <image src="images/ART09181.png?t=1594223229">
+      <highres src="images/highres/ART09181.png?t=1594223229" />
+    </image>
+    <image src="images/ART09182.png?t=1594223229">
+      <highres src="images/highres/ART09182.png?t=1594223229" />
+    </image>
+    <image src="images/ART09183.png?t=1594223229">
+      <highres src="images/highres/ART09183.png?t=1594223229" />
+    </image>
+    <image src="images/ART09184.png?t=1594223229">
+      <highres src="images/highres/ART09184.png?t=1594223229" />
+    </image>
+    <image src="images/ART09185.png?t=1594223229">
+      <highres src="images/highres/ART09185.png?t=1594223229" />
+    </image>
+    <image src="images/ART09186.png?t=1594223229">
+      <highres src="images/highres/ART09186.png?t=1594223229" />
+    </image>
+    <image src="images/ART09187.png?t=1594223229">
+      <highres src="images/highres/ART09187.png?t=1594223229" />
+    </image>
+    <image src="images/ART09188.png?t=1594223229">
+      <highres src="images/highres/ART09188.png?t=1594223229" />
+    </image>
+    <image src="images/ART09189.png?t=1594223229">
+      <highres src="images/highres/ART09189.png?t=1594223229" />
+    </image>
+    <image src="images/ART09190.png?t=1594223229">
+      <highres src="images/highres/ART09190.png?t=1594223229" />
+    </image>
+    <image src="images/ART09191.png?t=1594223229">
+      <highres src="images/highres/ART09191.png?t=1594223229" />
+    </image>
+    <image src="images/ART09192.png?t=1594223229">
+      <highres src="images/highres/ART09192.png?t=1594223229" />
+    </image>
+    <image src="images/ART09193.png?t=1594223229">
+      <highres src="images/highres/ART09193.png?t=1594223229" />
+    </image>
+    <image src="images/ART09194.png?t=1594223229">
+      <highres src="images/highres/ART09194.png?t=1594223229" />
+    </image>
+    <image src="images/ART09195.png?t=1594223229">
+      <highres src="images/highres/ART09195.png?t=1594223229" />
+    </image>
+    <image src="images/ART09196.png?t=1594223229">
+      <highres src="images/highres/ART09196.png?t=1594223229" />
+    </image>
+    <image src="images/ART09197.png?t=1594223229">
+      <highres src="images/highres/ART09197.png?t=1594223229" />
+    </image>
+    <image src="images/ART09198.png?t=1594223229">
+      <highres src="images/highres/ART09198.png?t=1594223229" />
+    </image>
+    <image src="images/ART09199.png?t=1594223229">
+      <highres src="images/highres/ART09199.png?t=1594223229" />
+    </image>
+    <image src="images/ART09200.png?t=1594223229">
+      <highres src="images/highres/ART09200.png?t=1594223229" />
+    </image>
+    <image src="images/ART09201.png?t=1594223229">
+      <highres src="images/highres/ART09201.png?t=1594223229" />
+    </image>
+    <image src="images/ART09202.png?t=1594223229">
+      <highres src="images/highres/ART09202.png?t=1594223229" />
+    </image>
+    <image src="images/ART09203.png?t=1594223229">
+      <highres src="images/highres/ART09203.png?t=1594223229" />
+    </image>
+    <image src="images/ART09204.png?t=1594223229">
+      <highres src="images/highres/ART09204.png?t=1594223229" />
+    </image>
+    <image src="images/ART09205.png?t=1594223229">
+      <highres src="images/highres/ART09205.png?t=1594223229" />
+    </image>
+    <image src="images/ART09206.png?t=1594223229">
+      <highres src="images/highres/ART09206.png?t=1594223229" />
+    </image>
+    <image src="images/ART09207.png?t=1594223229">
+      <highres src="images/highres/ART09207.png?t=1594223229" />
+    </image>
+    <image src="images/ART09208.png?t=1594223229">
+      <highres src="images/highres/ART09208.png?t=1594223229" />
+    </image>
+    <image src="images/ART09209.png?t=1594223229">
+      <highres src="images/highres/ART09209.png?t=1594223229" />
+    </image>
+    <image src="images/ART09210.png?t=1594223229">
+      <highres src="images/highres/ART09210.png?t=1594223229" />
+    </image>
+    <image src="images/ART09211.png?t=1594223229">
+      <highres src="images/highres/ART09211.png?t=1594223229" />
+    </image>
+    <image src="images/ART09212.png?t=1594223229">
+      <highres src="images/highres/ART09212.png?t=1594223229" />
+    </image>
+    <image src="images/ART09213.png?t=1594223229">
+      <highres src="images/highres/ART09213.png?t=1594223229" />
+    </image>
+    <image src="images/ART09214.png?t=1594223229">
+      <highres src="images/highres/ART09214.png?t=1594223229" />
+    </image>
+    <image src="images/ART09215.png?t=1594223229">
+      <highres src="images/highres/ART09215.png?t=1594223229" />
+    </image>
+    <image src="images/ART09216.png?t=1594223229">
+      <highres src="images/highres/ART09216.png?t=1594223229" />
+    </image>
+    <image src="images/ART09217.png?t=1594223229">
+      <highres src="images/highres/ART09217.png?t=1594223229" />
+    </image>
+    <image src="images/ART09218.png?t=1594223229">
+      <highres src="images/highres/ART09218.png?t=1594223229" />
+    </image>
+    <image src="images/ART09219.png?t=1594223229">
+      <highres src="images/highres/ART09219.png?t=1594223229" />
+    </image>
+    <image src="images/ART09220.png?t=1594223229">
+      <highres src="images/highres/ART09220.png?t=1594223229" />
+    </image>
+    <image src="images/ART09221.png?t=1594223229">
+      <highres src="images/highres/ART09221.png?t=1594223229" />
+    </image>
+    <image src="images/ART09222.png?t=1594223229">
+      <highres src="images/highres/ART09222.png?t=1594223229" />
+    </image>
+    <image src="images/ART09223.png?t=1594223229">
+      <highres src="images/highres/ART09223.png?t=1594223229" />
+    </image>
+    <image src="images/ART09224.png?t=1594223229">
+      <highres src="images/highres/ART09224.png?t=1594223229" />
+    </image>
+    <image src="images/ART09225.png?t=1594223229">
+      <highres src="images/highres/ART09225.png?t=1594223229" />
+    </image>
+    <image src="images/ART09226.png?t=1594223229">
+      <highres src="images/highres/ART09226.png?t=1594223229" />
+    </image>
+    <image src="images/ART09227.png?t=1594223229">
+      <highres src="images/highres/ART09227.png?t=1594223229" />
+    </image>
+    <image src="images/ART09228.png?t=1594223229">
+      <highres src="images/highres/ART09228.png?t=1594223229" />
+    </image>
+    <image src="images/ART09229.png?t=1594223229">
+      <highres src="images/highres/ART09229.png?t=1594223229" />
+    </image>
+    <image src="images/ART09230.png?t=1594223229">
+      <highres src="images/highres/ART09230.png?t=1594223229" />
+    </image>
+    <image src="images/ART09231.png?t=1594223229">
+      <highres src="images/highres/ART09231.png?t=1594223229" />
+    </image>
+    <image src="images/ART09232.png?t=1594223229">
+      <highres src="images/highres/ART09232.png?t=1594223229" />
+    </image>
+    <image src="images/ART09233.png?t=1594223229">
+      <highres src="images/highres/ART09233.png?t=1594223229" />
+    </image>
+    <image src="images/ART09234.png?t=1594223229">
+      <highres src="images/highres/ART09234.png?t=1594223229" />
+    </image>
+    <image src="images/ART09235.png?t=1594223229">
+      <highres src="images/highres/ART09235.png?t=1594223229" />
+    </image>
+    <image src="images/ART09236.png?t=1594223229">
+      <highres src="images/highres/ART09236.png?t=1594223229" />
+    </image>
+    <image src="images/ART09237.png?t=1594223229">
+      <highres src="images/highres/ART09237.png?t=1594223229" />
+    </image>
+    <image src="images/ART09238.png?t=1594223229">
+      <highres src="images/highres/ART09238.png?t=1594223229" />
+    </image>
+    <image src="images/ART09239.png?t=1594223229">
+      <highres src="images/highres/ART09239.png?t=1594223229" />
+    </image>
+    <image src="images/ART09240.png?t=1594223229">
+      <highres src="images/highres/ART09240.png?t=1594223229" />
+    </image>
+    <image src="images/ART09241.png?t=1594223229">
+      <highres src="images/highres/ART09241.png?t=1594223229" />
+    </image>
+    <image src="images/ART09242.png?t=1594223229">
+      <highres src="images/highres/ART09242.png?t=1594223229" />
+    </image>
+    <image src="images/ART09243.png?t=1594223229">
+      <highres src="images/highres/ART09243.png?t=1594223229" />
+    </image>
+    <image src="images/ART09244.png?t=1594223229">
+      <highres src="images/highres/ART09244.png?t=1594223229" />
+    </image>
+    <image src="images/ART09245.png?t=1594223229">
+      <highres src="images/highres/ART09245.png?t=1594223229" />
+    </image>
+    <image src="images/ART09246.png?t=1594223229">
+      <highres src="images/highres/ART09246.png?t=1594223229" />
+    </image>
+    <image src="images/ART09247.png?t=1594223229">
+      <highres src="images/highres/ART09247.png?t=1594223229" />
+    </image>
+    <image src="images/ART09248.png?t=1594223229">
+      <highres src="images/highres/ART09248.png?t=1594223229" />
+    </image>
+    <image src="images/ART09249.png?t=1594223229">
+      <highres src="images/highres/ART09249.png?t=1594223229" />
+    </image>
+    <image src="images/ART09250.png?t=1594223229">
+      <highres src="images/highres/ART09250.png?t=1594223229" />
+    </image>
+    <image src="images/ART09251.png?t=1594223229">
+      <highres src="images/highres/ART09251.png?t=1594223229" />
+    </image>
+    <image src="images/ART09252.png?t=1594223229">
+      <highres src="images/highres/ART09252.png?t=1594223229" />
+    </image>
+    <image src="images/ART09253.png?t=1594223229">
+      <highres src="images/highres/ART09253.png?t=1594223229" />
+    </image>
+    <image src="images/ART09254.png?t=1594223229">
+      <highres src="images/highres/ART09254.png?t=1594223229" />
+    </image>
+    <image src="images/ART09255.png?t=1594223229">
+      <highres src="images/highres/ART09255.png?t=1594223229" />
+    </image>
+    <image src="images/ART09256.png?t=1594223229">
+      <highres src="images/highres/ART09256.png?t=1594223229" />
+    </image>
+    <image src="images/ART09257.png?t=1594223229">
+      <highres src="images/highres/ART09257.png?t=1594223229" />
+    </image>
+    <image src="images/ART09258.png?t=1594223229">
+      <highres src="images/highres/ART09258.png?t=1594223229" />
+    </image>
+    <image src="images/ART09259.png?t=1594223229">
+      <highres src="images/highres/ART09259.png?t=1594223229" />
+    </image>
+    <image src="images/ART09260.png?t=1594223229">
+      <highres src="images/highres/ART09260.png?t=1594223229" />
+    </image>
+    <image src="images/ART09261.png?t=1594223229">
+      <highres src="images/highres/ART09261.png?t=1594223229" />
+    </image>
+    <image src="images/ART09262.png?t=1594223229">
+      <highres src="images/highres/ART09262.png?t=1594223229" />
+    </image>
+    <image src="images/ART09263.png?t=1594223229">
+      <highres src="images/highres/ART09263.png?t=1594223229" />
+    </image>
+    <image src="images/ART09264.png?t=1594223229">
+      <highres src="images/highres/ART09264.png?t=1594223229" />
+    </image>
+    <image src="images/ART09265.png?t=1594223229">
+      <highres src="images/highres/ART09265.png?t=1594223229" />
+    </image>
+    <image src="images/ART09266.png?t=1594223229">
+      <highres src="images/highres/ART09266.png?t=1594223229" />
+    </image>
+    <image src="images/ART09267.png?t=1594223229">
+      <highres src="images/highres/ART09267.png?t=1594223229" />
+    </image>
+    <image src="images/ART09268.png?t=1594223229">
+      <highres src="images/highres/ART09268.png?t=1594223229" />
+    </image>
+    <image src="images/ART09269.png?t=1594223229">
+      <highres src="images/highres/ART09269.png?t=1594223229" />
+    </image>
+    <image src="images/ART09270.png?t=1594223229">
+      <highres src="images/highres/ART09270.png?t=1594223229" />
+    </image>
+    <image src="images/ART09271.png?t=1594223229">
+      <highres src="images/highres/ART09271.png?t=1594223229" />
+    </image>
+    <image src="images/ART09272.png?t=1594223229">
+      <highres src="images/highres/ART09272.png?t=1594223229" />
+    </image>
+    <image src="images/ART09273.png?t=1594223229">
+      <highres src="images/highres/ART09273.png?t=1594223229" />
+    </image>
+    <image src="images/ART09274.png?t=1594223229">
+      <highres src="images/highres/ART09274.png?t=1594223229" />
+    </image>
+    <image src="images/ART09275.png?t=1594223229">
+      <highres src="images/highres/ART09275.png?t=1594223229" />
+    </image>
+    <image src="images/ART09276.png?t=1594223229">
+      <highres src="images/highres/ART09276.png?t=1594223229" />
+    </image>
+    <image src="images/ART09277.png?t=1594223229">
+      <highres src="images/highres/ART09277.png?t=1594223229" />
+    </image>
+    <image src="images/ART09278.png?t=1594223229">
+      <highres src="images/highres/ART09278.png?t=1594223229" />
+    </image>
+    <image src="images/ART09279.png?t=1594223229">
+      <highres src="images/highres/ART09279.png?t=1594223229" />
+    </image>
+    <image src="images/ART09280.png?t=1594223229">
+      <highres src="images/highres/ART09280.png?t=1594223229" />
+    </image>
+    <image src="images/ART09281.png?t=1594223229">
+      <highres src="images/highres/ART09281.png?t=1594223229" />
+    </image>
+    <image src="images/ART09282.png?t=1594223229">
+      <highres src="images/highres/ART09282.png?t=1594223229" />
+    </image>
+    <image src="images/ART09283.png?t=1594223229">
+      <highres src="images/highres/ART09283.png?t=1594223229" />
+    </image>
+    <image src="images/ART09284.png?t=1594223229">
+      <highres src="images/highres/ART09284.png?t=1594223229" />
+    </image>
+    <image src="images/ART09285.png?t=1594223229">
+      <highres src="images/highres/ART09285.png?t=1594223229" />
+    </image>
+    <image src="images/ART09286.png?t=1594223229">
+      <highres src="images/highres/ART09286.png?t=1594223229" />
+    </image>
+    <image src="images/ART09287.png?t=1594223229">
+      <highres src="images/highres/ART09287.png?t=1594223229" />
+    </image>
+    <image src="images/ART09288.png?t=1594223229">
+      <highres src="images/highres/ART09288.png?t=1594223229" />
+    </image>
+  </images>
+</config>
